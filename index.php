@@ -22,8 +22,8 @@ include 'includes/header.php';
     $age = 29;
     // echo variable
     echo $name;
-    echo "<h1>My Name Is: '.$name.'</h1>";
-    echo "<h1>My Name Is: '.$age.'</h1>";
+    echo "<h1>My Name Is: $name </h1>";
+    echo "<h1>My Name Is: $age </h1>";
     //echo usige double quotes and interpolation
     echo "<h1>My Name Is: $name</h1>";
 
