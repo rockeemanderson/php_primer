@@ -16,11 +16,11 @@
         <li class = "nav-item"><a class = "nav-link"  href="index.php">Home</a></li>
         <li class = "nav-item"><a class = "nav-link" href="array.php">Simple Array and printouts</a></li>
         <li class = "nav-item"><a class = "nav-link" href="forloop.php">Simple For Loop</a></li>
-        <li class = "nav-item"><a class = "nav-link" href="whiledowhileloop.php">Simple while / Do While Loop</a></li>
-        <li class = "nav-item"><a class = "nav-link" href="ifstatement.php">Simple If Statement</a></li>
-        <li class = "nav-item"><a class = "nav-link" href="switchstatement.php">SimpleSwitch Statement</a></li>
-        <li class = "nav-item"><a class = "nav-link" href="strinmgmanip.php">Simple String Manipulation</a></li>
-        <li class = "nav-item"><a class = "nav-link" href="datetimemanip.php">Simple String Manipulation</a></li>
+        <li class = "nav-item"><a class = "nav-link" href="whiledowhile.php">Simple while / Do While Loop</a></li>
+        <li class = "nav-item"><a class = "nav-link" href="ifstatements.php">Simple If Statement</a></li>
+        <li class = "nav-item"><a class = "nav-link" href="switchstatements.php">SimpleSwitch Statement</a></li>
+        <li class = "nav-item"><a class = "nav-link" href="stringmanip.php">Simple String Manipulation</a></li>
+        <li class = "nav-item"><a class = "nav-link" href="datetimemanip.php">Date and Time Manipulation</a></li>
         <li class = "nav-item"><a class = "nav-link" href="functions.php">Simple functions</a></li>
     </ul>
     
